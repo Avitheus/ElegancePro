@@ -1,4 +1,46 @@
-ElegancePro - Personal Website Template
+<style>
+  body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    color: #333;
+    margin: 20px;
+  }
+
+  h1, h2, h3 {
+    color: #007BFF;
+  }
+
+  a {
+    color: #007BFF;
+    text-decoration: none;
+    border-bottom: 1px solid #007BFF;
+  }
+
+  a:hover {
+    border-bottom: 2px solid #007BFF;
+  }
+
+  pre {
+    background-color: #f8f8f8;
+    padding: 10px;
+    border-radius: 5px;
+    overflow-x: auto;
+  }
+
+  code {
+    background-color: #f4f4f4;
+    padding: 2px 5px;
+    border-radius: 3px;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+</style>
+
+Personal Website Template
 
 Overview
 Create an impressive online portfolio with this modern and responsive Personal Website Template. Tailored for web developers, it features a clean design with sections for an about me, skills, projects, and personal links. The template includes a stylish navbar, smooth animations, and a toggle for light and dark modes. Showcase your expertise and projects effectively, making a lasting impression on visitors.
