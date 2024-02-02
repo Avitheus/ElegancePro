@@ -45,4 +45,6 @@ Avitheus
 
 • Social Icons by FontAwesome
 
+• Icons by Freepik
+
 Feel free to contribute, report issues, or suggest features to enhance this template!
