@@ -40,7 +40,9 @@ Avitheus
 # Acknowledgments
 
 • Icons by Font Awesome
+
 • Fonts by Google Fonts
+
 • Social Icons by FontAwesome
 
 Feel free to contribute, report issues, or suggest features to enhance this template!
