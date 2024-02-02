@@ -7,10 +7,15 @@ Create an impressive online portfolio with this modern and responsive Personal W
 # Features
 
 • Responsive Design
+
 • Light and Dark Modes
+
 • Stylish Navbar
+
 • Smooth Animations
+
 • Easy Customization
+
 • Project Showcase
 
 # Getting Started
