@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Personal Website</title>
+
+    <!-- External Stylesheets -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap">
+    <link rel="stylesheet" href="styles.css">
+
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Welcome to the personal website of a passionate web developer specializing in HTML, CSS, and JavaScript.">
+    <meta name="keywords" content="web development, HTML, CSS, JavaScript, portfolio, projects">
+
+    <!-- Favicon -->
+    <link rel="icon" href="path/to/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="path/to/favicon.ico" type="image/x-icon">
+</head>
+
+<body class="light-mode">
+
+    <header>
+        <div class="dark-mode-button" onclick="toggleDarkMode()">
+            <i class="fas fa-moon"></i>
+        </div>
+        <a href="index.html"><img id="profile-img" src="profilephoto.png" alt="Profile Picture"></a>
+        <h1>Your Name</h1>
+        <p>Web Developer</p>
+    </header>
+
+    <!-- Navbar -->
+    <nav class="navbar">
+        <ul>
+            <li><a href="#about-me">About Me</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#personal-links">Personal Links</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section id="installation">
+        <h2>Installation</h2>
+        <p>Follow these steps to set up your personal website:</p>
+        <ol>
+            <li>Clone the repository.</li>
+            <li>Customize the content in HTML and CSS files.</li>
+            <li>Add your profile picture and project images.</li>
+            <li>Deploy the website to your preferred hosting platform.</li>
+        </ol>
+    </section>
+
+    <section id="customization">
+        <h2>Customization</h2>
+        <p>Personalize each section to highlight your skills, projects, and personal links. Customize the navbar and toggle between light and dark modes to suit your style.</p>
+    </section>
+
+    <section id="support">
+        <h2>Support</h2>
+        <p>If you need assistance or have any questions, feel free to reach out:</p>
+        <ul>
+            <li>Twitter: <a href="https://twitter.com/Avitheus" target="_blank">@Avitheus</a></li>
+            <li>Email: <a href="mailto:avitheus@gmail.com">avitheus@gmail.com</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <div class="social-icons">
+            <!-- Your social icons here -->
+            <a href="https://www.facebook.com/yourusername" target="_blank"><i class="fab fa-facebook"></i></a>
+            <a href="https://twitter.com/yourusername" target="_blank"><i class="fab fa-twitter"></i></a>
+            <a href="https://www.linkedin.com/in/yourusername" target="_blank"><i class="fab fa-linkedin"></i></a>
+        </div>
+        <p>&copy; 2024 Your Name. All rights reserved.</p>
+        <small>
+            Made with ❤️ by <a href="https://github.com/Avitheus" target="_blank">Avitheus</a>
+        </small>
+    </footer>
+
+    <script>
+        // Your script for dark mode toggle here
+        function toggleDarkMode() {
+            document.body.classList.toggle('dark-mode');
+        }
+    </script>
+
+</body>
+</html>
