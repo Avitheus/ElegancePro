@@ -8,7 +8,7 @@ Create an impressive online portfolio with this modern and responsive personal w
 
 • Responsive Design
 
-• Light and Dark Modes
+• Light and Dark Mode
 
 • Stylish Navbar
 
