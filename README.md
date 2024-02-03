@@ -2,7 +2,7 @@
 
 # Overview
 
-Create an impressive online portfolio with this modern and responsive Personal Website Template. Tailored for web developers, it features a clean design with sections for an about me, skills, projects, and personal links. The template includes a stylish navbar, smooth animations, and a toggle for light and dark modes. Showcase your expertise and projects effectively, making a lasting impression on visitors.
+Create an impressive online portfolio with this modern and responsive personal website template. Tailored for web developers, it features a clean design with sections for an about me, skills, projects, and personal links. The template includes a stylish navbar, smooth animations, and a toggle for light and dark modes. Showcase your expertise and projects effectively, making a lasting impression on visitors.
 
 # Features
 
@@ -42,9 +42,5 @@ Avitheus
 • Icons by Font Awesome
 
 • Fonts by Google Fonts
-
-• Social Icons by FontAwesome
-
-• Icons by Freepik
 
 Feel free to contribute, report issues, or suggest features to enhance this template!
