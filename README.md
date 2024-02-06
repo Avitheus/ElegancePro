@@ -35,7 +35,7 @@ This template is licensed under the MIT License.
 
 # Author
 
-**Twitter:** [@Avitheus](https://twitter.com/Avitheus)
+[@Avitheus](https://twitter.com/Avitheus)
 
 # Acknowledgments
 
